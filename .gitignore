@@ -31,6 +31,8 @@ data/chromedriver-mac-arm64/
 data/raw/
 data/processed/**/*.parquet
 data/processed/**/*.csv
+data/processed
+data/state
 
 # Logs
 data/logs/
